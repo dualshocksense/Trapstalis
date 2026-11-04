@@ -1,4 +1,4 @@
-<img src="img/kurumin.png" alt="logo" height="560" />
+<img src="img/kurumin2.png" alt="logo" height="560" />
 
 # Trapstalis
 

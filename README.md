@@ -1,4 +1,5 @@
 <img src="img/kurumin.png" alt="logo" height="560" />
+
 # Trapstalis
 
 **Trapstalis** — лаунчер для загрузки, обновления и запуска игровых профилей Minecraft через инфраструктуру GML.
